@@ -17,7 +17,9 @@ Une application de gestion de tâches simple en ligne de commande, écrite en Ja
 
 ## Exécution
 
-Exécutez l'application avec la commande suivante : java Main
+- **Exécutez l'application avec la commande suivante :** 
+  ```bash
+  java Main
 
 ## Utilisation
 Une fois l'application lancée, vous verrez un menu comme celui-ci :
